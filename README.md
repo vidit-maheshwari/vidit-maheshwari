@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)]
 <h1 align="center">Hi 👋, I'm Vidit Maheshwari</h1>
 <h3 align="center">Code and Coffee keeps me running...</h3>
  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="">
