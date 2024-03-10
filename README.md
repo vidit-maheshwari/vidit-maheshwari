@@ -1,8 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)]
+![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)
 <h1 align="center">Hi 👋, I'm Vidit Maheshwari</h1>
 <h3 align="center">Code and Coffee keeps me running...</h3>
- <img align="right" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidit-maheshwari" alt="vidit-maheshwari" /></a> </p>
+ <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidit-maheshwari" alt="vidit-maheshwari" /></a> </p> -->
 
 - 🔭 I’m currently working on [Algora - A Personalised Investing Platform](https://github.com/vidit-maheshwari/algora)
 
